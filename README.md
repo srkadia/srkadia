@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **saalabc.6@gmail.com**
 
-- 👨‍🎓 Student **@ SSIT**
+- 👨‍🎓 Student **@SSIT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
