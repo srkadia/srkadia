@@ -11,7 +11,7 @@
 
 - 🤔 Curious
 
-- 📫 How to reach me [saalabc.6@gmail.com](saalabc.6@gmail.com)
+- 📫 How to reach me **saalabc.6@gmail.com**
 
 - 👨‍🎓 Student **@ SSIT**
 
