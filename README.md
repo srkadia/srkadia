@@ -7,7 +7,7 @@
 
 - 🧩 Critical Thinker
 
-- 🌱 I’m currently learning **JSP**
+- 🌱 I’m currently learning **Python**
 
 - 🤔 Curious
 
