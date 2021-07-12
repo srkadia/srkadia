@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrey Kadia</h1>
-<h3 align="center">A passionate Learner from India and a former Data analyst.</h3>
+<h3 align="center">A passionate Learner from India and a former Software Engineer.</h3>
 
 - 🌱 I’m currently learning **Python**
 
