@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrey Kadia</h1>
 <h3 align="center">A passionate Learner from India and a former Software Engineer.</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **EDA**
 
 - 💬 Ask me about **C, C++, JAVA, etc.**
 
