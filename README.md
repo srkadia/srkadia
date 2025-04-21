@@ -10,17 +10,27 @@
 
 ---
 
-### 📌 Key Projects
+## 🚀 Projects
 
-🔹 **![LoanGuard: Loan Default Prediction System](https://www.github.com/srkadia/LoanGuard)**  
-Built an end-to-end ML solution using FastAPI and React.js to predict loan default risk based on Lending Club data.  
-→ Dockerized and deployed on AWS EC2 with experiment tracking using MLflow.
+### 🔹 [**LoanGuard: Loan Default Prediction System**](https://www.github.com/srkadia/LoanGuard)  
+An end-to-end machine learning solution to predict loan default risk using Lending Club data.  
+- Built with **FastAPI** and **React.js**  
+- **Dockerized** and deployed on **AWS EC2**  
+- Integrated **MLflow** for experiment tracking  
 
-🔹 **![Crop Recommender System](https://www.github.com/srkadia/CRS)**  
-Created a model to recommend crops based on soil and location data, achieving a 25% yield improvement and reduced resource usage.
+---
 
-🔹 **Stock Market Analyzer**  
-Developed a Django-based web app analyzing real-time financial data using APIs for technical, fundamental, and sentiment analysis.
+### 🔹 [**Crop Recommender System**](https://www.github.com/srkadia/CRS)  
+A smart agricultural tool that recommends crops based on soil and location data.  
+- Achieved a **25% yield improvement**  
+- Helped reduce **resource usage** efficiently  
+
+---
+
+### 🔹 **Stock Market Analyzer**  
+A web-based platform for analyzing real-time financial data.  
+- Built with **Django**  
+- Uses APIs for **technical**, **fundamental**, and **sentiment** analysis  
 
 ---
 
