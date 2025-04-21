@@ -77,7 +77,7 @@ A web-based platform for analyzing real-time financial data.
   <a href="https://www.hackerrank.com/codersrk" target="blank">
     <img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="https://leetcode.com/your-leetcode-username" target="blank">
+  <a href="https://leetcode.com/shrey_rk" target="blank">
     <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
