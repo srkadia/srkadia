@@ -1,83 +1,81 @@
 <h1 align="center">Hi 👋, I'm Shrey Kadia</h1>
-<h3 align="center">Aspiring Data Scientist | Former Software Engineer | Passionate Learner from India</h3>
+<h3 align="center">Aspiring Data Scientist | Software Engineer | Passionate Learner from India</h3>
+
+🚀 I'm a Computer Engineering graduate with a strong foundation in machine learning, data analytics, and full-stack development.  
+🔭 Currently working as a **Software Developer** at Royal Technosoft Pvt. Ltd., delivering impactful automation and data-driven solutions.  
+📊 I’ve also worked as a **Data Science Intern** at Grownited Pvt. Ltd., building image processing pipelines and speeding up research by 40%.  
+🌱 Currently exploring **Neural Networks**, **MLOps**, and **Big Data Technologies**.  
+💡 Passionate about building real-world ML systems that optimize performance, reduce cost, and empower users.  
+📫 Reach me at **srkkadia@gmail.com**
 
 ---
 
-🎯 **About Me**  
-- 👨‍💻 I'm a Computer Engineering graduate passionate about **Data Science**, **AI**, and solving real-world problems with data-driven solutions.  
-- 🔍 Currently exploring **Neural Networks**, **Deep Learning**, and **Computer Vision**.  
-- 💡 Former Software Developer with hands-on experience in automation, scripting, and full-stack development.  
-- 💬 Ask me about **Python, C++, Java, SQL, Machine Learning, or Web Development**.  
-- 🌱 Always learning and contributing to real-world, impactful projects.  
-- 📫 Reach me at **[srkkadia@gmail.com](mailto:srkkadia@gmail.com)**  
+### 📌 Key Projects
+
+🔹 **![LoanGuard: Loan Default Prediction System](https://www.github.com/srkadia/LoanGuard)**  
+Built an end-to-end ML solution using FastAPI and React.js to predict loan default risk based on Lending Club data.  
+→ Dockerized and deployed on AWS EC2 with experiment tracking using MLflow.
+
+🔹 **![Crop Recommender System](https://www.github.com/srkadia/CRS)**  
+Created a model to recommend crops based on soil and location data, achieving a 25% yield improvement and reduced resource usage.
+
+🔹 **Stock Market Analyzer**  
+Developed a Django-based web app analyzing real-time financial data using APIs for technical, fundamental, and sentiment analysis.
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/srkadia" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.hackerrank.com/codersrk" target="blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-</p>
+### 💻 Skills & Tools
 
----
-
-<h3 align="left">💡 Skills & Technologies</h3>
-
-**Languages:**  
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frameworks / Libraries:**  
+**Frameworks & Tools**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![MLflow](https://img.shields.io/badge/MLflow-2C5BCC?style=for-the-badge&logo=dataiku&logoColor=white)  
+![Optuna](https://img.shields.io/badge/Optuna-1565C0?style=for-the-badge&logo=optuna&logoColor=white)
 
-**Machine Learning & Data Science:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![XGBoost](https://img.shields.io/badge/XGBoost-A03B17?style=for-the-badge&logo=xgboost&logoColor=white)  
+**Machine Learning / Deep Learning**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![NLP](https://img.shields.io/badge/NLP-Text--Mining-blueviolet?style=for-the-badge)  
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-OpenCV-informational?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA2D2D?style=for-the-badge&logo=hackerrank&logoColor=white)  
+![NLP](https://img.shields.io/badge/NLP-7B16FF?style=for-the-badge&logo=spacy&logoColor=white)
 
-**Databases:**  
+**Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools & OS:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+### 🌐 Connect with Me
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srkadia&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
+  <a href="https://linkedin.com/in/srkadia" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.hackerrank.com/codersrk" target="blank">
+    <img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://leetcode.com/your-leetcode-username" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
 </p>
 
----
-
-📌 **Featured Projects**
-- 🧠 **[Crop Recommender System](#)** – ML-based crop prediction with 20% less water usage and 25% yield boost.
-- 📈 **[Stock Market Analyzer](#)** – Django web app for analyzing real-time stock data using sentiment and technical indicators.
-
-> “In a world driven by data, those who can analyze and interpret it will shape the future.” – *Let’s build that future together.*
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srkadia&show_icons=true&theme=dark&locale=en&layout=compact" alt="srkadia" />
+</p>
+
