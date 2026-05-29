@@ -1,91 +1,72 @@
-<h1 align="center">Hi 👋, I'm Shrey Kadia</h1>
-<h3 align="center">Aspiring Data Scientist | Software Engineer | Passionate Learner from India</h3>
+# Shrey Kadia
 
-🚀 I'm a Computer Engineering graduate with a strong foundation in machine learning, data analytics, and full-stack development.  
-🔭 Currently working as a **Software Developer** at Royal Technosoft Pvt. Ltd., delivering impactful automation and data-driven solutions.  
-📊 I’ve also worked as a **Data Science Intern** at Grownited Pvt. Ltd., building image processing pipelines and speeding up research by 40%.  
-🌱 Currently exploring **Neural Networks**, **MLOps**, and **Big Data Technologies**.  
-💡 Passionate about building real-world ML systems that optimize performance, reduce cost, and empower users.  
-📫 Reach me at **srkkadia@gmail.com**
+**Senior AI Engineer** · Ahmedabad, India  
+Building production AI systems that actually work at scale.
 
 ---
 
-## 🚀 Projects
+### About
 
-### 🔹 [**LoanGuard: Loan Default Prediction System**](https://www.github.com/srkadia/LoanGuard)  
-An end-to-end machine learning solution to predict loan default risk using Lending Club data.  
-- Built with **FastAPI** and **React.js**  
-- **Dockerized** and deployed on **AWS EC2**  
-- Integrated **MLflow** for experiment tracking  
+I started as a Data Scientist in 2023 — credit risk models, feature engineering on 10M+ records, FastAPI deployments on AWS. Good foundation, but I wanted to build things people interact with, not just reports people read.
 
----
+Moved into AI engineering and haven't looked back. Now I spend my time on agent architectures, real-time voice AI, LLM fine-tuning, and making all of it reliable in production. 3 years in, currently Senior AI Engineer at a product startup.
 
-### 🔹 [**Crop Recommender System**](https://www.github.com/srkadia/CRS)  
-A smart agricultural tool that recommends crops based on soil and location data.  
-- Achieved a **25% yield improvement**  
-- Helped reduce **resource usage** efficiently  
+The problems I find most interesting: how do you make a small model punch above its weight? How do you build an agent that doesn't hallucinate actions? How do you serve LLMs cheaply without sacrificing quality?
 
 ---
 
-### 🔹 **Stock Market Analyzer**  
-A web-based platform for analyzing real-time financial data.  
-- Built with **Django**  
-- Uses APIs for **technical**, **fundamental**, and **sentiment** analysis  
+### What I Work On Professionally
+
+**Agentic AI Systems** — Multi-agent orchestration using LangGraph and AWS Bedrock. Designing orchestrator-to-subagent routing, session memory, tool use at scale, and streaming. The kind of system where a user describes what they want and agents figure out the rest.
+
+**Real-time Voice AI** — Production voice agents built on LiveKit. Multilingual STT/TTS routing, adaptive VAD configuration, noise cancellation. The hard parts: latency, interruption handling, session reliability.
+
+**LLM Fine-tuning & Inference** — QLoRA fine-tuning of small open-source models (Qwen, Mistral family) using teacher-student distillation from frontier models. GGUF quantization, Ollama deployment, EC2 serving. Getting 3B parameter models to match frontier model output quality on specific tasks.
+
+**Serverless ML Pipelines** — AWS Step Functions + Lambda for multi-stage AI evaluation pipelines. Transcription, speaker analysis, LLM evaluation, automated report generation — chained, fault-tolerant, production-monitored.
 
 ---
 
-### 💻 Skills & Tools
+### Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+```
+LLM & Training     QLoRA · GGUF · Teacher-student distillation
+                   HuggingFace (peft, trl) · Ollama · AWS Bedrock
 
-**Frameworks & Tools**  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![MLflow](https://img.shields.io/badge/MLflow-2C5BCC?style=for-the-badge&logo=dataiku&logoColor=white)  
-![Optuna](https://img.shields.io/badge/Optuna-1565C0?style=for-the-badge&logo=optuna&logoColor=white)
+Agentic AI         LangGraph · LangChain · LangChain-AWS
 
-**Machine Learning / Deep Learning**  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![XGBoost](https://img.shields.io/badge/XGBoost-AA2D2D?style=for-the-badge&logo=hackerrank&logoColor=white)  
-![NLP](https://img.shields.io/badge/NLP-7B16FF?style=for-the-badge&logo=spacy&logoColor=white)
+Voice & RT         LiveKit Agents · Deepgram · Sarvam AI · Silero VAD
 
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+MLOps & Cloud      AWS (EC2, S3, Lambda, Step Functions, Athena, SQS)
+                   FastAPI · Docker · MLflow · GitHub Actions
+
+ML Foundations     LightGBM · XGBoost · ANN · BERT · Sentence Transformers · SpaCy
+
+Data & Storage     PostgreSQL · Snowflake · MySQL · MongoDB
+```
 
 ---
 
-### 🌐 Connect with Me
+### Public Projects
 
-<p align="left">
-  <a href="https://linkedin.com/in/srkadia" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.hackerrank.com/codersrk" target="blank">
-    <img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://leetcode.com/shrey_rk" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-</p>
+These are older — built when I was deep in the ML/data science world. New practice projects coming as I go deeper on fine-tuning and inference optimization.
 
+- **[LoanGuard](https://github.com/srkadia/LoanGuard)** — End-to-end loan default prediction pipeline. LightGBM + XGBoost + ANN, MLflow experiment tracking, Flask + EC2 deployment. 12% accuracy improvement over baseline.
+- **[Crop Recommender System](https://github.com/srkadia/CRS)** — Crop recommendation by soil type and location. ResNet + Flask. 25% yield improvement in testing.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srkadia&show_icons=true&theme=dark&locale=en&layout=compact" alt="srkadia" />
-</p>
+### Currently Learning
 
+Fine-tuning training dynamics · vLLM & inference optimization · RAG evaluation (RAGAS) · Reading: QLoRA paper, PagedAttention (vLLM), RLHF survey
+
+---
+
+### Certifications
+Oracle Cloud Infrastructure 2024 Generative AI Professional
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-srkadia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srkadia)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-srkkadia@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srkkadia@gmail.com)
